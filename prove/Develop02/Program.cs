@@ -1,7 +1,7 @@
 using System;
 
 // To show creativity and exceed requirements: 
-// I used a "try-catch" code block in my FileStuff class when reading a file
+// I used a "try-catch" code block in my FileHandler class when reading a file
 // just in case the user enters in a file name that doesn't exist.
 class Program
 {
